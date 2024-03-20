@@ -1,14 +1,13 @@
 # Hello, I'm Erich Mueller
 <a href="https://linkedin.com/in/erich-mueller"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a System administrator with a profound interest in technology, Security, and a dedication to solving complex problems.
 
 ## Objective
 
 My path in technology has led to a passion for cybersecurity. I am eager to transition into the field as a Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -43,9 +42,9 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/9523e0a3-68c0-4d15-b4f2-aad486abe199/public_url"><img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/329bf8b4-7992-4ade-9393-f5e0f7ef687e/public_url"><img src="https://img.shields.io/badge/-Cybersecurity Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/53c9ffd7-0f9a-4264-bf82-6f9b19337720/public_url"><img src="https://img.shields.io/badge/-Certified Cloud Practitioner-005080?&style=for-the-badge&logo=amazon&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/9523e0a3-68c0-4d15-b4f2-aad486abe199/public_url"><img src="https://img.shields.io/badge/-ISC2 CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/329bf8b4-7992-4ade-9393-f5e0f7ef687e/public_url"><img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/53c9ffd7-0f9a-4264-bf82-6f9b19337720/public_url"><img src="https://img.shields.io/badge/-Amazon Certified Cloud Practitioner-005080?&style=for-the-badge&logo=amazon&logoColor=white" /></a>
 
 </div>
 

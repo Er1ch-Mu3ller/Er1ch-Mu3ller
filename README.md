@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My path in technology has led to a passion for cybersecurity. I am eager to transition into the field, and am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My path in technology has led to a passion for cybersecurity. I am eager to transition into the field as a Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -20,7 +20,6 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>

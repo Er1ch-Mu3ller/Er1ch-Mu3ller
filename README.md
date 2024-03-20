@@ -45,7 +45,7 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 <div>
 <a href="https://www.credly.com/badges/9523e0a3-68c0-4d15-b4f2-aad486abe199/public_url"><img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/329bf8b4-7992-4ade-9393-f5e0f7ef687e/public_url"><img src="https://img.shields.io/badge/-Cybersecurity Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/53c9ffd7-0f9a-4264-bf82-6f9b19337720/public_url"><img src="https://img.shields.io/badge/-Certified Cloud Practitioner-005080?&style=for-the-badge&logo=AWS&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/53c9ffd7-0f9a-4264-bf82-6f9b19337720/public_url"><img src="https://img.shields.io/badge/-Certified Cloud Practitioner-005080?&style=for-the-badge&logo=amazon&logoColor=white" /></a>
 
 </div>
 

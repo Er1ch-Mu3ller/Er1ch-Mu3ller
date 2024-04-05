@@ -8,15 +8,15 @@ I am a System administrator with a profound interest in technology, Security, an
 My path in technology has led to a passion for cybersecurity. I am eager to transition into the field as a Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Skills
-<- Install splunk and route suricata logs to it
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>| 
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| <- Make this have to do with the suricata logs
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> - Install splunk and route suricata logs to it| 
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> - Make this have to do with the suricata logs|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab| <- create a strategy for handling a security incident. simulate one and document
+| Incident Response Planning and Execution      | SOC Automation Lab - create a strategy for handling a security incident. simulate one and document|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| <- find some best practises, create a ansible playbook that handles the security updates. keep this up to date and document.
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab - find some best practises, create a ansible playbook that handles the security updates. keep this up to date and document.|
 
 ## Tools
 

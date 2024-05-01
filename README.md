@@ -9,7 +9,7 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Configuration          | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and configure Wazuh</a>| 
 | Password Manager Implementation and Configuration | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>|

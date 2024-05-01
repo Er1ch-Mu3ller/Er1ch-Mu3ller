@@ -50,5 +50,5 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Install and configure Wazuh
+- Install and Configure Passbolt

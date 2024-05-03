@@ -11,7 +11,7 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 
 | Skill                                         | Associated Project(s)         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Configuration          | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and configure Wazuh</a>| 
+| SIEM Implementation and Configuration          | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and Configure Wazuh</a>| 
 | Password Manager Implementation and Configuration | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>|
 | Suricata Implementation and Configuration         | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab - create a strategy for handling a security incident. simulate one and document|
@@ -51,6 +51,6 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 
 ## Projects
 - Implementation Projects:
-    - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and configure Wazuh</a>
+    - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and Configure Wazuh</a>
     - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>
     - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a>

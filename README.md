@@ -29,7 +29,7 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 ### IPS/IDS
 <div>
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Snort-774BB4?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-774BB4?&style=for-the-badge" />
 </div>
 
 ### Endpoint

@@ -9,14 +9,14 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 
 ## Skills
 
-| Skill                                         | Associated Project(s)         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Configuration          | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and Configure Wazuh</a>| 
-| Password Manager Implementation and Configuration | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>|
-| IPS/IDS Implementation and Configuration         | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab - create a strategy for handling a security incident. simulate one and document|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab - find some best practises, create a ansible playbook that handles the security updates. keep this up to date and document.|
+| Skill                                              | Associated Project(s) |
+|--------------------------------------------------- | ---------------------------- |
+| SIEM Implementation and Configuration              | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and Configure Wazuh</a> | 
+| Password Manager Implementation and Configuration  | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a> |
+| IPS/IDS Implementation and Configuration           | <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a> |
+| Incident Response, Planning, and Execution         | SOC Lab - create a strategy for handling a security incident. simulate one and document |
+| Case Management                                    | SOC Lab |
+| Scripting and Automation for Threat Mitigation     | SOC Lab - find some best practises, create a ansible playbook that handles the security updates. keep this up to date and document. |
 
 ## Tools
 

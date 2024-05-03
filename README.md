@@ -50,6 +50,7 @@ My path in technology has led to a passion for cybersecurity. I am eager to tran
 </div>
 
 ## Projects
-- <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and configure Wazuh</a>
-- <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>
-- <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a>
+- Implementation Projects:
+    - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-wazuh/">Install and configure Wazuh</a>
+    - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-passbolt/">Install and Configure Passbolt</a>
+    - <a href="https://erich-mueller-cs-docs.gitbook.io/project-install-and-configure-suricata-in-pfsense/">Install and Configure Suricata in pfsense</a>
